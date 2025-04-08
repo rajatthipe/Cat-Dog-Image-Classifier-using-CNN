@@ -1,8 +1,6 @@
-# Cat-Dog-Image-Classifier-using-CNN
+# 🐱🐶 Cat-Dog-Image-Classifier
 
-# 🐱🐶 CatDogNet
-
-**CatDogNet** is a deep learning project built to classify images of cats and dogs using a Convolutional Neural Network (CNN). The model is trained using TensorFlow and Keras on a structured dataset of labeled images. It demonstrates effective use of image preprocessing, CNN design, batch normalization, and dropout regularization to improve performance and reduce overfitting.
+**Cat-Dog-Image-Classifier** is a deep learning project built to classify images of cats and dogs using a Convolutional Neural Network (CNN). The model is trained using TensorFlow and Keras on a structured dataset of labeled images. It demonstrates effective use of image preprocessing, CNN design, batch normalization, and dropout regularization to improve performance and reduce overfitting.
 
 ---
 
